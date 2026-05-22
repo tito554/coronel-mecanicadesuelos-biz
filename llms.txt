@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Coronel
+
+> Geotechnical engineering services in Coronel, Chile.
+
+## Services
+- [Aislacion Sismica](https://coronel.mecanicadesuelos.biz/aislacion-sismica/)
+- [Anclajes](https://coronel.mecanicadesuelos.biz/anclajes/)
+- [Calicatas](https://coronel.mecanicadesuelos.biz/calicatas/)
+- [Cbr Vial](https://coronel.mecanicadesuelos.biz/cbr-vial/)
+- [Cimentaciones](https://coronel.mecanicadesuelos.biz/cimentaciones/)
+- [Columnas Grava](https://coronel.mecanicadesuelos.biz/columnas-grava/)
+- [Densidad Cono Arena](https://coronel.mecanicadesuelos.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://coronel.mecanicadesuelos.biz/ensayo-cpt/)
+- [Ensayos Proctor](https://coronel.mecanicadesuelos.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://coronel.mecanicadesuelos.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://coronel.mecanicadesuelos.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://coronel.mecanicadesuelos.biz/excavaciones-subterraneo/)
+- [Exploracion](https://coronel.mecanicadesuelos.biz/exploracion/)
+- [Geotecnia Vial](https://coronel.mecanicadesuelos.biz/geotecnia-vial/)
+- [Granulometria](https://coronel.mecanicadesuelos.biz/granulometria/)
+- [Inyecciones](https://coronel.mecanicadesuelos.biz/inyecciones/)
+- [Laboratorio In Situ](https://coronel.mecanicadesuelos.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://coronel.mecanicadesuelos.biz/laboratorio-lab/)
+- [Licuefaccion](https://coronel.mecanicadesuelos.biz/licuefaccion/)
+- [Limites Atterberg](https://coronel.mecanicadesuelos.biz/limites-atterberg/)
+- [Losas Fundacion](https://coronel.mecanicadesuelos.biz/losas-fundacion/)
+- [Masw](https://coronel.mecanicadesuelos.biz/masw/)
+- [Mejoramiento](https://coronel.mecanicadesuelos.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://coronel.mecanicadesuelos.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://coronel.mecanicadesuelos.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://coronel.mecanicadesuelos.biz/muros-contencion/)
+- [Pavimento Flexible](https://coronel.mecanicadesuelos.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://coronel.mecanicadesuelos.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://coronel.mecanicadesuelos.biz/permeabilidad-in-situ/)
+- [Pilotes](https://coronel.mecanicadesuelos.biz/pilotes/)
+- [Refraccion Sismica](https://coronel.mecanicadesuelos.biz/refraccion-sismica/)
+- [Resistividad](https://coronel.mecanicadesuelos.biz/resistividad/)
+- [Sismica](https://coronel.mecanicadesuelos.biz/sismica/)
+- [Sondajes Spt](https://coronel.mecanicadesuelos.biz/sondajes-spt/)
+- [Taludes](https://coronel.mecanicadesuelos.biz/taludes/)
+- [Triaxial](https://coronel.mecanicadesuelos.biz/triaxial/)
+- [Tuneles Suelo Blando](https://coronel.mecanicadesuelos.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://coronel.mecanicadesuelos.biz/vibrocompactacion/)
+- [Zapatas](https://coronel.mecanicadesuelos.biz/zapatas/)
+
+## Contact
+- Website: https://coronel.mecanicadesuelos.biz/
+
+## About
+This site provides geotechnical engineering services in Coronel, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
